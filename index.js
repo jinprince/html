@@ -1,3 +1,2 @@
-<script>
-alert("this is html")
-<script>
+
+alert("this is html");
